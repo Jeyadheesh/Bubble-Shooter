@@ -1,0 +1,10 @@
+23000.0 Bartek
+20000.0 Michal
+20000.0 Michal
+20000.0 Michal
+2700.0 halko
+900.0 Tomasz
+600.0 bartek
+600.0 Wojtek
+0.0 a
+0.0 a
